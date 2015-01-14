@@ -1,5 +1,5 @@
 === Editorial Access Manager ===
-Contributors: tlovett1
+Contributors: tlovett1, 10up
 Donate link: http://www.taylorlovett.com
 Tags: editorial access management, user roles, user capabilities, role management, user permissions, administrator permissions
 Requires at least: 3.6
